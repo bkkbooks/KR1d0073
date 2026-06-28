@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1d0073/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部四
+  hash: sha256:753fed3570de885feea2655f2afda2dcac3de78d0edd6607684749ed59d8b745
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1d0073_WYG_000-1a, image: WYG0128/WYG0128-0273a.png}
+body:
+  text: 檀弓疑問禮類三禮記之屬提要臣等謹按檀弓疑問一卷國朝邵泰衢撰泰衢字鶴亭錢塘人明於算術雍正初以薦授欽天監左監副其書以禮記出自漢儒而檀弓一篇尤多附㑹乃摘其可疑者條列而論辨之如以脫驂舊館人為失禮之正以夫子夢奠之事為杳冥渺茫皆非聖人所冝出又親喪哭無常聲不應以孺子泣為難繼居仇者不反兵而鬬為啓亂端曽㸃之狂乃志大而有所不為非狂肆之狂倚門而歌斷無此事以王姬為齊襄公妻非魯莊公之外祖母大都皆明白正大深中理解非劉知幾之橫生臆解惑古疑經者可比惟師及齊師戰于郎一條泰衢以郎字為郊字之誤蓋據春秋戰于郊之文不知魯有二郎隱公元年費伯所城之郎在今廢魚臺縣地哀公十年與齊戰之郎則為魯近郊地案說詳江永春秋地理考實謂郎即郊則可謂郎為誤則不可又乘邱之戰一條泰衢疑魯莊公敗績之誤不知古人軍潰曰敗績車覆亦曰敗績左傳所云敗績壓覆者是也暨以戰衄為疑亦疏於考據然偶然疏舛固亦不害其大㫖也乾隆四十六年四月恭校上總纂官臣紀呁臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:6f314243089c8c72680bdabd2dff9b72572b952489f5db3bd9221c505ef78e78
+metadata:
+  title: 檀弓疑問
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:11:07.292743'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1d0073/KR1d0073_000.txt
+hash: sha256:303fd54641fd49fd530ed0ac224fa0bab846a33dee0108a811a9d32b4b8e1b75
