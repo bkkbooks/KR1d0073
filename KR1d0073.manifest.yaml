@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR1d0073_000.yaml, hash: 'sha256:97babd427c4c7daf609a0e46bd9c4e40183ad9a3f171ab623b186e4051c4cb20'}
   - {seq: 1, filename: KR1d0073_001.yaml, hash: 'sha256:2a7ff60119fafc43a812dcf083ffee4559e7be4354ec0a3bc595bc97e314001d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1d0073_000.markers.yaml, hash: 'sha256:f5667fc6615ac4283c61b361a5f6f119c17d19a0fa21fcb6e76ee5cb00cc8382'}
+  - {seq: 0, role: markers, filename: assets/KR1d0073_000.markers.yaml, hash: 'sha256:aa8f302d620b45da052bc0a848eb91e8e0a6dfef1963da03fb1ff9b236114713'}
   - {seq: 1, role: markers, filename: assets/KR1d0073_001.markers.yaml, hash: 'sha256:aa390778d17f046ba145b1853a44905b7816f8561fe6e8f496eec4e48bb05e94'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 檀弓疑問
   type: section
   level: 1
-hash: sha256:7d8d61529277a974008b014cfda1842e29a0f33e94de8e2ae5b2419b25c80e50
+hash: sha256:2d2b50d057b9c21ad2077b4db2d0413d1867371cd8f61245e4840b4cc93e3a68
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
